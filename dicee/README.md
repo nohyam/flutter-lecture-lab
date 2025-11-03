@@ -17,4 +17,5 @@
 - 난수 생성: `Random()`
 
 ## Preview
-[dicee.mp4](assets/screenshots/dicee.mp4)
+https://github.com/user-attachments/assets/d8c4a5f6-b8f2-4c09-a1c8-1324e1f9115b
+
