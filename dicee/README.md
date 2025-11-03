@@ -17,4 +17,4 @@
 - 난수 생성: `Random()`
 
 ## Preview
-![dicee.mp4](assets/screenshots/dicee.mp4)
+[dicee.mp4](assets/screenshots/dicee.mp4)
