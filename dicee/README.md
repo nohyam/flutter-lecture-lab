@@ -17,9 +17,4 @@
 - 난수 생성: `Random()`
 
 ## Preview
-<<<<<<< HEAD
 https://github.com/user-attachments/assets/d8c4a5f6-b8f2-4c09-a1c8-1324e1f9115b
-=======
-https://github.com/user-attachments/assets/d8c4a5f6-b8f2-4c09-a1c8-1324e1f9115b
-
->>>>>>> f7a632b1c3dafdac525a9a5bae4afc562b48e312
