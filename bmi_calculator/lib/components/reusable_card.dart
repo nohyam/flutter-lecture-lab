@@ -1,7 +1,5 @@
 import 'package:flutter/material.dart';
 
-import '../screens/input_page.dart';
-
 class ReusableCard extends StatelessWidget {
   final Color boxColor;
   final Widget? cardChild;
