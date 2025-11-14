@@ -19,4 +19,4 @@
 - UI, 로직, 상태를 분리하는 설계 패턴 이해
 
 ## Preview
-![Image](https://github.com/user-attachments/assets/93aa47c5-7935-4d96-9663-ccf07d975a78)
+![Image](https://github.com/user-attachments/assets/22010e7b-d1a5-4cbf-8125-a5bcd8a84a8a)
